@@ -1,4 +1,4 @@
-# TodoList React App
+# TodoList React App :memo:
 This is a TodoList app powered by HTML, CSS and React JS created following a [Dev Ed](https://www.youtube.com/c/DevEd) tutorial video for React beginners.
 
 ## Features
