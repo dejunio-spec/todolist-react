@@ -9,6 +9,12 @@ This is a TodoList app powered by HTML, CSS and React JS created following a [De
 - Simple intuitive design.
 
 ## Screenshots
+![](screenshots/todo1.png)
 
+![](screenshots/todo2.png)
+
+![](screenshots/todoCompleted.png)
+
+![](screenshots/todoUncompleted.png)
 
 Thank you! :relaxed:
